@@ -1,4 +1,5 @@
 initial 
 1st commit 
 2nd commit 
-modified followed by reset 976978b
+modified followed by reset 976978bafter stash 
+after stash 
